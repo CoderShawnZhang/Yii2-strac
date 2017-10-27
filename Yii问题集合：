@@ -1,0 +1,5 @@
+Invalid argument supplied for foreach()
+验证规格 rules(){
+return []
+}
+不能返回空的

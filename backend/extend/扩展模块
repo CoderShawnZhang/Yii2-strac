@@ -1,0 +1,22 @@
+扩展模块，是用来展示 Yii2的 模块 强大功能
+
+设计的目录结构如下：
+
+backend(后台)
+        ｜
+         －－ extend(扩展)
+              ｜
+               －－modules(模块文件夹)
+                   ｜
+                    －－Suggest (留言板模块)
+                        |
+                        －－assets
+                        －－Controllers
+                        －－Views
+                        －－Modles
+                    －－Tag (标签模块)
+                        |
+                        －－assets
+                        －－Controllers
+                        －－Views
+                        －－Modles
